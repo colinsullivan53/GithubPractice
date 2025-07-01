@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class Message {
 
-    private static final String message = "hello, world! do you like programming?";
+    private static final String message = "I love branches!!!! They let me explore new paths without losing my way!";
 
     private static final String[] pickup_lines = {
         "are you a repository? cuz i wanna commit to you",
